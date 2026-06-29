@@ -140,3 +140,8 @@ Where `EXAM` is the 4-character station identifier matching `m\_StationCode` in 
 
 \- Coordinate conversion uses WGS84 ellipsoid parameters with 10-iteration convergence
 
+
+
+\##Acknowledgements
+
+Development of this project included the use of Claude Sonnet 4.6 for troubleshooting, code review, and software engineering best practices. All project design decisions, testing, validation, and final implementation were completed by the repository author.
